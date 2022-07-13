@@ -1,6 +1,6 @@
 baseURL = 'https://ijborda.github.io/docs-sample'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'AMBDABiDSS-Health Documentation'
 theme = "hugo-theme-relearn"
 
 # For search functionality
