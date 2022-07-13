@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://ijborda.github.io/docs-sample/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Jul 2022 21:17:07 +0800</lastBuildDate><atom:link href="https://ijborda.github.io/docs-sample/index.xml" rel="self" type="application/rss+xml"/><item><title>Bioinfo Subgroup</title><link>https://ijborda.github.io/docs-sample/basics/</link><pubDate>Wed, 13 Jul 2022 21:17:07 +0800</pubDate><guid>https://ijborda.github.io/docs-sample/basics/</guid><description>Notices Sample Notice Char langsz.
+Sample Warning Char langsz.
+Math Sample Math Equation
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$</description></item></channel></rss>
